@@ -19,9 +19,11 @@ font-family: 'Oxygen', sans-serif;
 
 font-size: 60px;
 
+color: white;
+
 text-transform: uppercase;
 	
-text-shadow: 5px 5px indianred;
+text-shadow: 5px 5px #0E6655 ;
 
 
 }
