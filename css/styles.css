@@ -27,6 +27,9 @@ text-shadow: 5px 5px #0E6655 ;
 
 
 }
+a { 
+color: #0E6655;
+}
 .resume-header {
     background-color: #A9DFBF;
 }
